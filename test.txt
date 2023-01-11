@@ -1,0 +1,2 @@
+Try to send and commit data from terminal
+
