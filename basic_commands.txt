@@ -1,4 +1,0 @@
-vim <name of file>.txt. Insert data: Shift+Insert; Save file: Esc -> :wq
-ls - list of files and directories
-cat <path to file> - show what inside of file. Example: cat storm.txt, cat epam-github-learning/storm.txt
-
